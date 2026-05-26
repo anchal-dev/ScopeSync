@@ -1,0 +1,5 @@
+Utility Type,Consumption,UOM,Facility
+Electricity,14200,kWh,HQ - London
+Electricity,55.4,MWh,Plant A - Munich
+Electricity,89000,watt-hour,Plant B - Warsaw
+Electricity,-500,kWh,Distribution - Lyon
