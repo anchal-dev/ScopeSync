@@ -1,5 +1,7 @@
 # ScopeSync - ESG Data Management Platform
 
+**Live Demo:** [https://scope-sync-two.vercel.app/](https://scope-sync-two.vercel.app/)
+
 ScopeSync is an enterprise-grade Environmental, Social, and Governance (ESG) data ingestion and normalization platform. It provides a robust, auditable pipeline for uploading raw operational data (like SAP fuel extracts, utility bills, and corporate travel logs), normalizing it into standard CO2e equivalents, and enforcing a strict analyst review lifecycle.
 
 ## Features
